@@ -1,0 +1,12 @@
+.products {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+}
+.row {
+  display: flex;
+  align-items: flex-start;
+  margin-top: 60px;
+  gap: 30px;
+}

@@ -1,0 +1,29 @@
+.paymentType {
+  width: 100%;
+  height: auto;
+  padding: 12px;
+  background: rgba(45, 168, 62, 0.1);
+  cursor: pointer;
+  margin: 8px 0;
+  border-radius: 13px;
+}
+.title {
+  font-size: 22px;
+  margin-bottom: 12px;
+}
+.formGroup {
+  margin-bottom: 12px;
+  display: block;
+}
+.label {
+  font-size: 18px;
+}
+.input {
+  width: 100%;
+  height: auto;
+  padding: 12px;
+  margin: 8px 0;
+  border-radius: 13px;
+  border: none;
+  font-size: 16px;
+}
